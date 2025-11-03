@@ -12,8 +12,8 @@ Información del conjunto de datos
 * Etiquetas enteras 0–9.
 * Imágenes propias (50): fotos de dígitos con iluminación y encuadres reales, 5 para cada dígito.
 
-* [Reporte en foramto ipynb (Google COLAB)](A3_2_645700.ipynb)
-* [Reporte en foramto html (Google COLAB)](A3_2_645700.html)
-* [Reporte en foramto ipynb (Jupyter Notebooks)](A3.2_645700.ipynb)
-* [Reporte en foramto html (Jupyter Notebooks)](A3.2_645700.html)
+* [Reporte en formato ipynb (Google COLAB)](A3_2_645700.ipynb)
+* [Reporte en formato html (Google COLAB)](A3_2_645700.html)
+* [Reporte en formato ipynb (Jupyter Notebooks)](A3.2_645700.ipynb)
+* [Reporte en formato html (Jupyter Notebooks)](A3.2_645700.html)
 
