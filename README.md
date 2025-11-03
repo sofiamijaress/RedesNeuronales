@@ -15,5 +15,5 @@ Información del conjunto de datos
 * [Reporte en foramto ipynb (Google COLAB)](A3_2_645700.ipynb)
 * [Reporte en foramto html (Google COLAB)](A3_2_645700.html)
 * [Reporte en foramto ipynb (Jupyter Notebooks)](A3.2_645700.ipynb)
-* [Reporte en foramto htm(Jupyter Notebooks)l](A3.2_645700.html)
+* [Reporte en foramto html (Jupyter Notebooks)](A3.2_645700.html)
 
